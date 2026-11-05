@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# STM32CubeIDE / Eclipse workspace and build output
+.metadata/
+build/
+Debug/
+Release/
+
+# Compiler / linker output (bare-metal and HAL)
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+*.cyclo
+*.log
